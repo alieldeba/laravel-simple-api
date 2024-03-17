@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c77da71e5de3f935aa32f3c00dd3b59d",
+    "content-hash": "f67c0e6c8e052f4a9a8f100332f0c35f",
     "packages": [
         {
             "name": "braumye/laravel-vercel-postgres",
